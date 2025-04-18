@@ -25,13 +25,3 @@
 2. 有向无环图 [PDF](slides/L12.pdf) [视频](https://www.bilibili.com/video/BV18cdtYGE2P)
 3. 无向图 [PDF](slides/L13.pdf) [视频](https://www.bilibili.com/video/BV1Dgd3YcEsM)
 4. Tutorial 4 [视频](https://www.bilibili.com/video/BV1jUocYEEHU)
-<!-- #### 图优化
-1. 最小生成树 [PDF](slides/L14.pdf) [视频](https://www.bilibili.com/video/BV1nH4y1G7oH)
-2. 最短路径 [PDF](slides/L15.pdf) [视频](https://www.bilibili.com/video/BV1yt421M7DU)
-3. Tutorial 5 [视频](https://www.bilibili.com/video/BV1Js421P7jw)
-#### 动态规划
-1. 动态规划1 [PDF](slides/L16.pdf) [视频](https://www.bilibili.com/video/BV16M4m1k7Wr)
-2. 动态规划2 [PDF](slides/L17.pdf) [视频](https://www.bilibili.com/video/BV1c1421q7hd)
-3. Tutorial 6 [视频](https://www.bilibili.com/video/BV1Hn4y1R7DG)
-#### 计算复杂性初探
-1. 计算复杂性1 [PDF](slides/L18.pdf) [视频](https://www.bilibili.com/video/BV1pr421w7eS) -->
